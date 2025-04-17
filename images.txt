@@ -1,1 +1,3 @@
 zabbix/zabbix-agent
+zabbix/zabbix-build-mysql
+nginx-prometheus-exporter
